@@ -11,12 +11,17 @@ I'm a DevOps engineer from :singapore:, and I am currently working in an innovat
   <a href="mailto:robincher@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Gmail" height="35" width="35" /></a> &nbsp;&nbsp;
 </p>
 
-### :footprints: Skills
+### :footprints: Things i think i'm good at ..
 * Kubernetes
 * Ansible
-* Javascript
+* Terraform
+* Javascripts (Angular and Node.js)
 * Java
-* Cloud Computing (AWS & Azure)
+* Cloud Computing (AWS & Azure) 
+
+### :luggage: My beautiful memories ..
+* DBS Bank  
+* Government Technology Agency of Singapore
 
 ### :receipt: Certifications
 * Certified Kubernetes Application Developer
