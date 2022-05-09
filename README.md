@@ -1,6 +1,6 @@
 ### Hi there , I'm Robin 👋
 
-I'm a DevOps engineer from :singapore:, and I am currently working in an innovation lab co-setup by Civil Aviation Authority of Singapore and Thales, know as [Airlab](https://www.airlab.aero) where I wear various hats from designing its platform to running ad-hoc platform works.
+I'm a DevOps engineer from :singapore:, and I am currently awaiting to start my new gig :)
 
 ### :notebook: I'm learning
 - Golang
@@ -22,6 +22,7 @@ I'm a DevOps engineer from :singapore:, and I am currently working in an innovat
 ### :luggage: My beautiful memories ..
 * DBS Bank  
 * Government Technology Agency of Singapore
+* Thales Airlab
 
 ### :receipt: Certifications
 * Certified Kubernetes Application Developer
