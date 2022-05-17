@@ -1,6 +1,6 @@
 ### Hi there , I'm Robin 👋
 
-I'm a Solution Engineer from :singapore:, and I am currently working @[Kong](https://konghq.com) :gorilla: , a rocket-ship that is innovating at the cloud-connectivity space.
+I'm a Solution Engineer from :singapore:, and I am currently working @ [Kong](https://konghq.com) :gorilla: , a rocket-ship that is innovating at the cloud-connectivity space.
 
 ### :notebook: I'm learning
 - Golang
