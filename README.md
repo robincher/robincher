@@ -17,7 +17,8 @@ I'm a Solution Engineer from :singapore:, and I am currently working @ [Kong](ht
 * Terraform
 * Javascripts (Angular and Node.js)
 * Java
-* Cloud Computing (AWS & Azure) 
+* Cloud Computing 
+* APIs
 
 ### :luggage: My beautiful memories ..
 * DBS Bank  
