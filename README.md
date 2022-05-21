@@ -17,7 +17,7 @@ I'm a Solution Engineer from :singapore:, and I am currently working @ [Kong](ht
 * Terraform
 * Javascripts (Angular and Node.js)
 * Java
-* Cloud Computing 
+* Cloud Computing and Networking
 * APIs
 
 ### :luggage: My beautiful memories ..
