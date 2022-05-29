@@ -34,3 +34,6 @@ I'm a Solution Engineer from :singapore:, and I am currently working @ [Kong](ht
 * [Moving to Pomerium Identity Aware Proxy](https://dev.to/robincher/moving-to-pomerium-identity-aware-proxy-4fom)
 * [Shifting Left - Secret as Code with Flux V2 and Mozilla SOPS](https://dev.to/robincher/shifting-left-secret-as-code-with-flux-v2-and-mozilla-sops-19cg)
 * [Securing your website via OIDC, powered by Kong and KeyCloak](https://dev.to/robincher/securing-your-site-via-oidc-powered-by-kong-and-keycloak-2ccc)
+
+![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robincher&show_icons=true&theme=radical)
+
