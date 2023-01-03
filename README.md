@@ -27,6 +27,7 @@ I'm a Solution Engineer from :singapore:, and I am currently working @ [Kong](ht
 
 ### :receipt: Certifications
 * Certified Kubernetes Application Developer
+* Certified Kubernetes Administrator
 * AWS Solution Architect Professional
 * AWS Security Specialist
 
