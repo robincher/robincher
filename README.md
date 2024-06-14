@@ -18,7 +18,7 @@ I'm a Solution Engineer from :singapore:, and I am currently working @ [Kong](ht
 * Javascripts (Angular and Node.js)
 * Java
 * Cloud Computing and Networking
-* APIs
+* API
 
 ### :luggage: My memories ..
 * DBS Bank  
@@ -37,6 +37,7 @@ I'm a Solution Engineer from :singapore:, and I am currently working @ [Kong](ht
 * [Securing your website via OIDC, powered by Kong and KeyCloak](https://dev.to/robincher/securing-your-site-via-oidc-powered-by-kong-and-keycloak-2ccc)
 * [Forwarding API Logs to your Observability System with Kong Gateway](https://konghq.com/blog/how-to-parse-and-forward-api-logs)
 * [Automating Kong Deployment with Flux](https://dev.to/robincher/deploying-kong-with-flux-48n1)
+* [Automating Kong Konnect Configuration with Terraform](https://dev.to/robincher/automating-kong-konnect-configuration-with-terraform-3c0c)
 
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robincher&show_icons=true&theme=radical)
 
